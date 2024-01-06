@@ -5,7 +5,7 @@ For Twinkle Tunes App, one of our main priorities is the privacy of our users. T
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-Link to the privacy policy of third-party service providers used by the app: https://policies.google.com/privacy?hl=en
+<p>Link to the privacy policy of third-party service providers used by the app: <a href="https://policies.google.com/privacy?hl=en">Google AdMob</a>.</p>
 
 This App does not use "cookies" explicitly. However the app may use third-party code and libraries that use "cookies" to collect information and improve their services. Note that Twinkle Tunes App has no access to or control over these cookies that are used by third-party advertisers
 
